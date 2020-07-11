@@ -1,4 +1,4 @@
-# DATA7703
+# DATA7703 Machine Learning
 
 This is the Machine Learning Course in the University of Queensland, 2020
 
